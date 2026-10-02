@@ -1,0 +1,6 @@
+.env
+*.db
+*.key
+key.txt
+*.sqlite
+*.sqlite3
